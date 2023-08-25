@@ -73,6 +73,6 @@ L88 Workout/Sport/Exercise/ETC.
 L98 Else that is not related with this Operating Systems class.
 L99 Other (...)
 
-ZCZC W00  5 L01 SCELE Related: Registered to OS232 A class
-ZCZC W00 20 L03 GitHub Related: Made & finetuned personal os232 repo
+ZCZC W00  5 L01 SCELE related: Registered to OS232 A class
+ZCZC W00 20 L03 GitHub related: Made & finetuned personal os232 repo
 ZCZC W00 10 L04 GitHub Pages related: Made & finetuned personal os232 GitHub Page
