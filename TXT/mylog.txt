@@ -1,13 +1,16 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00    5 L01 SCELE/Discord related: Registered to OS232 A class as part of the week 00 assignment
-ZCZC W00   25 L03 GitHub and git related, including commit, push, pull: Made & finetuned personal os232 repo as part of the week 00 assignment
-ZCZC W00   13 L04 GitHub Pages related: Made & finetuned personal os232 GitHub Page as part of the week 00 assignment
-ZCZC W00  289 L05 Quiz related including studying: Completed reading (OSC10) Silberschatz et. al.: Operating System Concepts, 10th Edition, 2018, chapter 1, 2, & 18 as part of the week 00 assignment
-ZCZC W00   33 L30 Udacity: Watched the "Operating Systems: Visual Metaphor (Udacity)" as part of the week 00 assignment
-ZCZC W00   21 L05 Quiz related including studying: Installed and configured SEB and also tried the Dummy Quiz
-ZCZC W00  277 L05 Quiz related including studying: Tried some previous MidTerm Problems as part of the week 00 assignment
-ZCZC W00   19 L07 Demo related: Tried the Week00 demo as part of the week 00 assignment
-ZCZC W00 1829 L05 Quiz related including studying: Getting familiar with GNU/Linux Tutorial, More GNU/Linux, and From Students for Students notes as part of the week 00 assignment. I consider that anthonymrtn's notes are what's right for me.
-ZCZC W00 2490 L10 Assignment #00: Assignment for Week 00 done
+ZCZC W00 5 L01 SCELE/Discord related: Registered to OS232 A class as part of the week 00 assignment
+ZCZC W00 25 L03 GitHub and git related, including commit, push, pull: Made & finetuned personal os232 repo as part of the week 00 assignment
+ZCZC W00 13 L04 GitHub Pages related: Made & finetuned personal os232 GitHub Page as part of the week 00 assignment
+ZCZC W00 289 L05 Quiz related including studying: Completed reading (OSC10) Silberschatz et. al.: Operating System Concepts, 10th Edition, 2018, chapter 1, 2, & 18 as part of the week 00 assignment
+ZCZC W00 33 L30 Udacity: Watched the "Operating Systems: Visual Metaphor (Udacity)" as part of the week 00 assignment
+ZCZC W00 21 L05 Quiz related including studying: Installed and configured SEB and also tried the Dummy Quiz
+ZCZC W00 277 L05 Quiz related including studying: Tried some previous MidTerm Problems as part of the week 00 assignment
+ZCZC W00 19 L07 Demo related: Tried the Week00 demo as part of the week 00 assignment
+ZCZC W00 457 L05 Quiz related including studying: Getting familiar with GNU/Linux Tutorial, More GNU/Linux, and From Students for Students notes as part of the week 00 assignment. I consider that anthonymrtn's notes are what's right for me.
+ZCZC W00 460 L05 Quiz related including studying: Continued with Getting familiar with GNU/Linux Tutorial as part of the week 00 assignment
+ZCZC W00 458 L05 Quiz related including studying: Continued with Getting familiar with GNU/Linux Tutorial as part of the week 00 assignment
+ZCZC W00 454 L05 Quiz related including studying: Continued with Getting familiar with GNU/Linux Tutorial as part of the week 00 assignment
+ZCZC W00 126 L10 Assignment #00: Assignment for Week 00 done. Minutes spent on finetuning adn submitting to GitHub 
