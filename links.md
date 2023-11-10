@@ -34,3 +34,9 @@ Video berupa materi mengenai bagaimana cara kerja Shared Memory Systems
 
 10. [How to Set up Shared Memory in Your Linux and MacOS Programs. (shmget, shmat, shmdt, shmctl, ftok)](https://youtu.be/WgVSq-sgHOc?si=uRAhIoWxZCsLwbKz) <br>
 Video berupa materi mengenai bagaimana cara melakukan Shared Memory di dalam Linux
+
+11. [Introduction - Synchronization - GitBook](https://eric-lo.gitbook.io/synchronization/) <br>
+Berisi materi seperti sinkronisasi, semaphore, dan lainnya
+
+12. [Semaphores](https://youtu.be/XDIOC2EY5JE?si=Zcw4-IxKGPsFEID6) <br>
+Berisi video mengenai semaphore
