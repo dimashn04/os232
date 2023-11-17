@@ -40,3 +40,9 @@ Berisi materi seperti sinkronisasi, semaphore, dan lainnya
 
 12. [Semaphores](https://youtu.be/XDIOC2EY5JE?si=Zcw4-IxKGPsFEID6) <br>
 Berisi video mengenai semaphore
+
+13. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.0/index.html) <br>
+Berisi materi bagaimana melakukan LFS
+
+14. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=ostUxzY8euhd8fUv) <br>
+Playlist LFS
